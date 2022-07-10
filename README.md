@@ -1,2 +1,9 @@
-# ahang
-Wiwiw
+
+[
+  {
+    "متن": "https://bayanbox.ir/view/1276230732497611026/A.mp3"
+  }،
+  {
+    "متن": "https://bayanbox.ir/view/7229159824396583037/4506876324.mp3"
+  }
+]
